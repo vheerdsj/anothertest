@@ -29,4 +29,16 @@
           </div>
         </div>
 
-		
+Create project on Github
+git Clone URL
+paste files
+git status
+git add .
+git status
+git commit -m "Added initial project files"
+make changes
+git status
+git commit -m "Edited template to create pizza website"
+git status
+
+Add project on Appveyor
