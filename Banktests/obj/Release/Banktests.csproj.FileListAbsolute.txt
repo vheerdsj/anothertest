@@ -1,0 +1,7 @@
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\AnotherTest\Banktests\bin\Release\Banktests.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\AnotherTest\Banktests\bin\Release\Banktests.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\AnotherTest\Banktests\bin\Release\WebApplication2.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\AnotherTest\Banktests\bin\Release\WebApplication2.pdb
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\AnotherTest\Banktests\obj\Release\Banktests.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\AnotherTest\Banktests\obj\Release\Banktests.dll
+C:\Users\Steven\Documents\Visual Studio 2012\Projects\AnotherTest\Banktests\obj\Release\Banktests.pdb
